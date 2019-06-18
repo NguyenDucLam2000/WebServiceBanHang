@@ -21,5 +21,11 @@
         <classShapeMoniker Id="8bc6e161-832b-4ffb-a691-1ce94d85a137" />
       </nodes>
     </associationConnector>
+    <classShape Id="a71b6ebf-ed79-4783-9c1e-4f25cb0c3862" absoluteBounds="1.75, 3.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BanHangMiniDataContext/TaiKhoan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe7ade34-00af-4898-878c-4f612b401733" absoluteBounds="1.7650000000000001, 3.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
   </nestedChildShapes>
 </ordesignerObjectsDiagram>
